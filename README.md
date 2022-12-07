@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @one987
 - 👀 I’m interested in bikes, kiteboarding, coffee, spaghetti westerns and computers. 
-- 🌱 I’m currently learning how to code html, css and Javascript through The Odin Project.
+- 🌱 I’m currently learning web dev through The Odin Project.
 - 💞️ I’m open to studying with other self taught enthusiasts. 
 - 📫 Reach me on discord @ one987#9815
 
